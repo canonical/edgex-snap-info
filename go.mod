@@ -2,7 +2,7 @@ module github.com/canonical/edgex-snap-info
 
 go 1.18
 
-require github.com/jedib0t/go-pretty/v6 v6.4.2
+require github.com/jedib0t/go-pretty/v6 v6.4.4
 
 require (
 	github.com/mattn/go-runewidth v0.0.13 // indirect
